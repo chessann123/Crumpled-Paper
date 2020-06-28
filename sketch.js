@@ -20,7 +20,7 @@ function setup(){
 }
 
 function draw(){
-    background(0);
+    background("lightblue");
     Engine.update(engine);
 
     dustbin.display();
